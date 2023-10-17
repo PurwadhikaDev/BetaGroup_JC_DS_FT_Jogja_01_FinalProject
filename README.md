@@ -7,6 +7,22 @@ Collaborators
 2. [Fajar Dwi Kurnianto](https://github.com/fdkurnianto)
 3. [Faisal Nur Khairudin](https://github.com/fnkhairudin)
 
+Table of Contents
+-------------
+* [Context](#context)
+* [Problem Statement](#problem-statement)
+* [Goals](#goals)
+* [Project Stakeholders](#project-stakeholders)
+* [Analytics Approach](#analytics-approach)
+* [Metric Evaluation](#metric-evaluation)
+* [Data Understanding](#data-understanding)
+* [Cluster Analysis](#cluster-analysis)
+* [Kesimpulan](#kesimpulan)
+* [Rekomendasi](#rekomendasi)
+* [Dashboard](#dashboard)
+* [MLflow Tracking Experiment](#mlflow-tracking-experiment)
+* [Project Organization](#projec-organization)
+
 Context
 ------------
 Terdapat suatu perusahaan yang bergerak dibidang perbankan/keuangan, yaitu Bank Beta. Saat ini Bank Beta memiliki suatu data mengenai perilaku kurang lebih 9000 pengguna/nasabah yang menggunakan kartu kredit selama 6 bulan kebelakang. Beberapa perilaku tersebut antara lain, jumlah sisa saldo yang dapat digunakan (balance), seberapa sering nasabah menggunakan kartu kreditnya, jumlah saldo yang telah digunakan, dll.

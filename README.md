@@ -126,3 +126,21 @@ https://public.tableau.com/app/profile/fajar.dwi.kurnianto/viz/CLUSTERINGCREDITC
 MLflow Tracking Experiment
 ------------
 https://dagshub.com/fnkhairudin/Credit-Card-Clustering-Customer-Segmentation.mlflow
+
+Project Organization
+------------
+├── README.md          <- business understanding until conclusion and recommendation
+├── data
+|   ├── processed      <- final data for analysis, modeling, and tableau dashboard
+│   └── raw            <- original data
+│
+├── model              <- final model
+│
+├── notebooks          <- Jupyter notebooks with naming convention: a group name, a number (for ordering),
+│                         and a short `-` delimited description, e.g. `beta-1.0-business-problem-and-data-understanding`
+│                         
+├── reports            <- images
+│
+└── src                <- get experiment id for MLflow tracking experiment
+└── requirements.txt   <- requirements file for reproducing the analysis environment, e.g.
+                          generated with `pip freeze > requirements.txt`

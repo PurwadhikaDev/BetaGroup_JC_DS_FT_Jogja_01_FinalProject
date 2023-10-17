@@ -1,0 +1,12 @@
+numpy
+pandas
+seaborn
+plotly
+matplotlib
+missingno
+scipy
+category_encoders
+scikit-learn
+mlflow
+hdbscan
+pickle

@@ -69,6 +69,7 @@ Cluster Analysis
 ------------
 ![alt text](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_FT_Jogja_01_FinalProject/blob/master/reports/visualisasi2D.png)
 ![alt text](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_FT_Jogja_01_FinalProject/blob/master/reports/visualisasi3D.png)
+![alt text](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_FT_Jogja_01_FinalProject/blob/master/reports/Rata_rata_fitur.png)
 
 1. Rata-rata nilai berdasarkan fitur-fiturnya
 - Terdapat 3 cluster hasil dari model KMeans-Tuned

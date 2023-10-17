@@ -13,7 +13,7 @@ Table of Contents
 * [Problem Statement](#problem-statement)
 * [Goals](#goals)
 * [Project Stakeholders](#project-stakeholders)
-* [Analytics Approach](#analytics-approach)
+* [Analytics Approach](#analytic-approach)
 * [Metric Evaluation](#metric-evaluation)
 * [Data Understanding](#data-understanding)
 * [Cluster Analysis](#cluster-analysis)
@@ -21,7 +21,7 @@ Table of Contents
 * [Rekomendasi](#rekomendasi)
 * [Dashboard](#dashboard)
 * [MLflow Tracking Experiment](#mlflow-tracking-experiment)
-* [Project Organization](#projec-organization)
+* [Project Organization](#project-organization)
 
 Context
 ------------
